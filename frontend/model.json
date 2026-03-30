@@ -1,0 +1,4898 @@
+{
+  "walls": [
+    {
+      "type": "load_bearing",
+      "center": [
+        74.52,
+        42.12
+      ],
+      "length": 81.36,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        9.0,
+        42.18
+      ],
+      "length": 81.24,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        9.6,
+        44.82
+      ],
+      "length": 75.96,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        73.8,
+        44.82
+      ],
+      "length": 75.96,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        41.52,
+        44.82
+      ],
+      "length": 75.96,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        38.16,
+        7.2
+      ],
+      "length": 73.44,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        38.16,
+        82.56
+      ],
+      "length": 73.44,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        60.0,
+        96.0
+      ],
+      "length": 72.0,
+      "angle": 0.0,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        40.86,
+        81.84
+      ],
+      "length": 68.04,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        41.64,
+        2.4
+      ],
+      "length": 67.68,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        62.88,
+        96.84
+      ],
+      "length": 66.24,
+      "angle": 0.0,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        95.28,
+        66.54
+      ],
+      "length": 60.84,
+      "angle": 1.5708,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        69.18,
+        35.88
+      ],
+      "length": 53.64,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        42.12,
+        30.9
+      ],
+      "length": 48.12,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        57.3,
+        7.8
+      ],
+      "length": 35.16,
+      "angle": 0.0,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        58.08,
+        30.36
+      ],
+      "length": 33.6,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        58.02,
+        38.64
+      ],
+      "length": 33.24,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        54.78,
+        37.8
+      ],
+      "length": 30.84,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        56.22,
+        36.96
+      ],
+      "length": 27.72,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        53.34,
+        35.4
+      ],
+      "length": 27.24,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        52.32,
+        81.48
+      ],
+      "length": 24.96,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        21.84,
+        7.8
+      ],
+      "length": 24.48,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        32.4,
+        18.78
+      ],
+      "length": 23.64,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        21.24,
+        30.36
+      ],
+      "length": 23.28,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        21.24,
+        21.72
+      ],
+      "length": 23.28,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        20.52,
+        60.24
+      ],
+      "length": 21.84,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        20.52,
+        53.16
+      ],
+      "length": 21.84,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        84.36,
+        36.96
+      ],
+      "length": 21.6,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        19.86,
+        58.56
+      ],
+      "length": 20.52,
+      "angle": 0.0,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        23.22,
+        21.0
+      ],
+      "length": 19.32,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        13.44,
+        26.7
+      ],
+      "length": 19.08,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        46.68,
+        37.5
+      ],
+      "length": 18.6,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        14.4,
+        44.16
+      ],
+      "length": 18.24,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        18.12,
+        35.88
+      ],
+      "length": 17.04,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        54.72,
+        39.6
+      ],
+      "length": 16.56,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        54.72,
+        41.64
+      ],
+      "length": 16.56,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        54.78,
+        46.2
+      ],
+      "length": 16.44,
+      "angle": 0.0,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        22.86,
+        71.76
+      ],
+      "length": 15.96,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        26.04,
+        89.22
+      ],
+      "length": 15.48,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        29.88,
+        89.22
+      ],
+      "length": 15.48,
+      "angle": 1.5708,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        22.2,
+        89.22
+      ],
+      "length": 15.48,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        12.96,
+        28.92
+      ],
+      "length": 14.64,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        46.68,
+        14.04
+      ],
+      "length": 14.16,
+      "angle": 1.5708,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        26.04,
+        15.36
+      ],
+      "length": 13.68,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        26.04,
+        49.68
+      ],
+      "length": 12.48,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        56.52,
+        35.52
+      ],
+      "length": 12.48,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        19.8,
+        36.54
+      ],
+      "length": 12.36,
+      "angle": 1.5708,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        16.02,
+        57.96
+      ],
+      "length": 12.36,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        29.88,
+        34.8
+      ],
+      "length": 12.24,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        22.68,
+        66.96
+      ],
+      "length": 11.76,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        26.04,
+        35.58
+      ],
+      "length": 11.4,
+      "angle": 1.5708,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        21.36,
+        70.56
+      ],
+      "length": 11.28,
+      "angle": 1.5708,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        61.5,
+        71.16
+      ],
+      "length": 11.16,
+      "angle": 0.0,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        24.12,
+        70.2
+      ],
+      "length": 10.8,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        19.2,
+        31.02
+      ],
+      "length": 10.44,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        40.2,
+        80.4
+      ],
+      "length": 10.08,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        30.36,
+        19.08
+      ],
+      "length": 9.36,
+      "angle": 1.5708,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        58.32,
+        58.56
+      ],
+      "length": 8.16,
+      "angle": 0.0,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        33.96,
+        39.6
+      ],
+      "length": 8.16,
+      "angle": 0.0,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        65.88,
+        74.04
+      ],
+      "length": 7.92,
+      "angle": 0.0,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        20.7,
+        74.04
+      ],
+      "length": 7.8,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        37.44,
+        84.96
+      ],
+      "length": 7.68,
+      "angle": 0.0,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "load_bearing",
+      "center": [
+        16.74,
+        33.12
+      ],
+      "length": 7.56,
+      "angle": 0.0,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "partition",
+      "center": [
+        17.4,
+        17.16
+      ],
+      "length": 7.44,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "partition",
+      "center": [
+        62.04,
+        16.32
+      ],
+      "length": 7.44,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "partition",
+      "center": [
+        19.8,
+        19.02
+      ],
+      "length": 7.32,
+      "angle": 1.5708,
+      "hasDoor": false,
+      "thickness": 0.42
+    },
+    {
+      "type": "partition",
+      "center": [
+        40.2,
+        10.62
+      ],
+      "length": 7.32,
+      "angle": 1.5708,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "partition",
+      "center": [
+        29.22,
+        29.64
+      ],
+      "length": 7.32,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    },
+    {
+      "type": "partition",
+      "center": [
+        29.28,
+        16.32
+      ],
+      "length": 7.2,
+      "angle": 0.0,
+      "hasDoor": true,
+      "thickness": 0.42
+    }
+  ],
+  "floors": [
+    {
+      "id": "floor_0",
+      "center": [
+        48.0,
+        48.525
+      ],
+      "width": 96.0,
+      "depth": 97.05,
+      "label": "Bedroom 1",
+      "area_sqm": 2329.2,
+      "aspect_ratio": 1.01
+    },
+    {
+      "id": "floor_1",
+      "center": [
+        41.55,
+        4.775
+      ],
+      "width": 65.1,
+      "depth": 4.05,
+      "label": "Bedroom 2",
+      "area_sqm": 65.91,
+      "aspect_ratio": 16.07
+    },
+    {
+      "id": "floor_2",
+      "center": [
+        5.375,
+        44.75
+      ],
+      "width": 5.35,
+      "depth": 74.5,
+      "label": "Bedroom 3",
+      "area_sqm": 99.64,
+      "aspect_ratio": 13.93
+    },
+    {
+      "id": "floor_3",
+      "center": [
+        37.025,
+        10.65
+      ],
+      "width": 5.45,
+      "depth": 6.3,
+      "label": "Small Room 4",
+      "area_sqm": 8.58,
+      "aspect_ratio": 1.16
+    },
+    {
+      "id": "floor_4",
+      "center": [
+        20.65,
+        14.7
+      ],
+      "width": 21.6,
+      "depth": 13.0,
+      "label": "Bedroom 5",
+      "area_sqm": 70.2,
+      "aspect_ratio": 1.66
+    },
+    {
+      "id": "floor_5",
+      "center": [
+        57.975,
+        18.6
+      ],
+      "width": 30.65,
+      "depth": 20.6,
+      "label": "Bedroom 6",
+      "area_sqm": 157.85,
+      "aspect_ratio": 1.49
+    },
+    {
+      "id": "floor_6",
+      "center": [
+        25.65,
+        44.75
+      ],
+      "width": 31.6,
+      "depth": 72.7,
+      "label": "Bedroom 7",
+      "area_sqm": 574.33,
+      "aspect_ratio": 2.3
+    },
+    {
+      "id": "floor_7",
+      "center": [
+        44.475,
+        14.025
+      ],
+      "width": 3.65,
+      "depth": 11.25,
+      "label": "Bedroom 8",
+      "area_sqm": 10.27,
+      "aspect_ratio": 3.08
+    },
+    {
+      "id": "floor_8",
+      "center": [
+        29.175,
+        11.875
+      ],
+      "width": 5.55,
+      "depth": 4.75,
+      "label": "Small Room 9",
+      "area_sqm": 6.59,
+      "aspect_ratio": 1.17
+    },
+    {
+      "id": "floor_9",
+      "center": [
+        26.0,
+        18.475
+      ],
+      "width": 9.9,
+      "depth": 4.45,
+      "label": "Bedroom 10",
+      "area_sqm": 11.01,
+      "aspect_ratio": 2.22
+    },
+    {
+      "id": "floor_10",
+      "center": [
+        16.1,
+        19.125
+      ],
+      "width": 3.9,
+      "depth": 2.85,
+      "label": "Small Room 11",
+      "area_sqm": 2.78,
+      "aspect_ratio": 1.37
+    },
+    {
+      "id": "floor_11",
+      "center": [
+        11.25,
+        26.475
+      ],
+      "width": 2.8,
+      "depth": 7.15,
+      "label": "Small Room 12",
+      "area_sqm": 5.01,
+      "aspect_ratio": 2.55
+    },
+    {
+      "id": "floor_12",
+      "center": [
+        22.575,
+        26.475
+      ],
+      "width": 17.75,
+      "depth": 7.15,
+      "label": "Bedroom 13",
+      "area_sqm": 31.73,
+      "aspect_ratio": 2.48
+    },
+    {
+      "id": "floor_13",
+      "center": [
+        44.925,
+        25.525
+      ],
+      "width": 5.55,
+      "depth": 4.75,
+      "label": "Small Room 14",
+      "area_sqm": 6.59,
+      "aspect_ratio": 1.17
+    },
+    {
+      "id": "floor_14",
+      "center": [
+        29.2,
+        26.3
+      ],
+      "width": 5.5,
+      "depth": 4.7,
+      "label": "Small Room 15",
+      "area_sqm": 6.46,
+      "aspect_ratio": 1.17
+    },
+    {
+      "id": "floor_15",
+      "center": [
+        47.625,
+        33.75
+      ],
+      "width": 1.25,
+      "depth": 6.2,
+      "label": "Small Room 16",
+      "area_sqm": 1.94,
+      "aspect_ratio": 4.96
+    },
+    {
+      "id": "floor_16",
+      "center": [
+        53.5,
+        33.75
+      ],
+      "width": 1.3,
+      "depth": 6.2,
+      "label": "Small Room 17",
+      "area_sqm": 2.02,
+      "aspect_ratio": 4.77
+    },
+    {
+      "id": "floor_17",
+      "center": [
+        55.45,
+        33.75
+      ],
+      "width": 1.3,
+      "depth": 6.2,
+      "label": "Small Room 18",
+      "area_sqm": 2.02,
+      "aspect_ratio": 4.77
+    },
+    {
+      "id": "floor_18",
+      "center": [
+        57.4,
+        33.75
+      ],
+      "width": 1.3,
+      "depth": 6.2,
+      "label": "Small Room 19",
+      "area_sqm": 2.02,
+      "aspect_ratio": 4.77
+    },
+    {
+      "id": "floor_19",
+      "center": [
+        59.35,
+        33.75
+      ],
+      "width": 1.3,
+      "depth": 6.2,
+      "label": "Small Room 20",
+      "area_sqm": 2.02,
+      "aspect_ratio": 4.77
+    },
+    {
+      "id": "floor_20",
+      "center": [
+        61.325,
+        33.75
+      ],
+      "width": 1.25,
+      "depth": 6.2,
+      "label": "Small Room 21",
+      "area_sqm": 1.94,
+      "aspect_ratio": 4.96
+    },
+    {
+      "id": "floor_21",
+      "center": [
+        63.275,
+        33.75
+      ],
+      "width": 1.25,
+      "depth": 6.2,
+      "label": "Small Room 22",
+      "area_sqm": 1.94,
+      "aspect_ratio": 4.96
+    },
+    {
+      "id": "floor_22",
+      "center": [
+        68.925,
+        32.15
+      ],
+      "width": 4.75,
+      "depth": 3.0,
+      "label": "Small Room 23",
+      "area_sqm": 3.56,
+      "aspect_ratio": 1.58
+    },
+    {
+      "id": "floor_23",
+      "center": [
+        71.675,
+        33.35
+      ],
+      "width": 3.05,
+      "depth": 5.4,
+      "label": "Small Room 24",
+      "area_sqm": 4.12,
+      "aspect_ratio": 1.77
+    },
+    {
+      "id": "floor_24",
+      "center": [
+        11.25,
+        32.75
+      ],
+      "width": 2.8,
+      "depth": 4.0,
+      "label": "Small Room 25",
+      "area_sqm": 2.8,
+      "aspect_ratio": 1.43
+    },
+    {
+      "id": "floor_25",
+      "center": [
+        19.425,
+        32.75
+      ],
+      "width": 11.45,
+      "depth": 4.0,
+      "label": "Bedroom 26",
+      "area_sqm": 11.45,
+      "aspect_ratio": 2.86
+    },
+    {
+      "id": "floor_26",
+      "center": [
+        28.2,
+        35.85
+      ],
+      "width": 2.6,
+      "depth": 9.2,
+      "label": "Small Room 27",
+      "area_sqm": 5.98,
+      "aspect_ratio": 3.54
+    },
+    {
+      "id": "floor_27",
+      "center": [
+        11.975,
+        40.425
+      ],
+      "width": 4.05,
+      "depth": 7.95,
+      "label": "Small Room 28",
+      "area_sqm": 8.05,
+      "aspect_ratio": 1.96
+    },
+    {
+      "id": "floor_28",
+      "center": [
+        16.8,
+        38.55
+      ],
+      "width": 4.2,
+      "depth": 4.1,
+      "label": "Small Room 29",
+      "area_sqm": 4.31,
+      "aspect_ratio": 1.02
+    },
+    {
+      "id": "floor_29",
+      "center": [
+        62.875,
+        66.475
+      ],
+      "width": 65.45,
+      "depth": 59.95,
+      "label": "Bedroom 30",
+      "area_sqm": 980.93,
+      "aspect_ratio": 1.09
+    },
+    {
+      "id": "floor_30",
+      "center": [
+        22.425,
+        39.525
+      ],
+      "width": 5.05,
+      "depth": 5.55,
+      "label": "Small Room 31",
+      "area_sqm": 7.01,
+      "aspect_ratio": 1.1
+    },
+    {
+      "id": "floor_31",
+      "center": [
+        62.5,
+        66.475
+      ],
+      "width": 64.7,
+      "depth": 58.45,
+      "label": "Bedroom 32",
+      "area_sqm": 945.43,
+      "aspect_ratio": 1.11
+    },
+    {
+      "id": "floor_32",
+      "center": [
+        57.675,
+        60.2
+      ],
+      "width": 31.95,
+      "depth": 42.0,
+      "label": "Bedroom 33",
+      "area_sqm": 335.48,
+      "aspect_ratio": 1.31
+    },
+    {
+      "id": "floor_33",
+      "center": [
+        11.975,
+        51.325
+      ],
+      "width": 4.05,
+      "depth": 3.05,
+      "label": "Small Room 34",
+      "area_sqm": 3.09,
+      "aspect_ratio": 1.33
+    },
+    {
+      "id": "floor_34",
+      "center": [
+        12.175,
+        55.525
+      ],
+      "width": 4.65,
+      "depth": 4.05,
+      "label": "Small Room 35",
+      "area_sqm": 4.71,
+      "aspect_ratio": 1.15
+    },
+    {
+      "id": "floor_35",
+      "center": [
+        24.925,
+        55.525
+      ],
+      "width": 7.75,
+      "depth": 4.05,
+      "label": "Small Room 36",
+      "area_sqm": 7.85,
+      "aspect_ratio": 1.91
+    },
+    {
+      "id": "floor_36",
+      "center": [
+        20.45,
+        56.675
+      ],
+      "width": 21.2,
+      "depth": 6.35,
+      "label": "Bedroom 37",
+      "area_sqm": 33.66,
+      "aspect_ratio": 3.34
+    },
+    {
+      "id": "floor_37",
+      "center": [
+        17.775,
+        55.225
+      ],
+      "width": 4.65,
+      "depth": 2.25,
+      "label": "Small Room 38",
+      "area_sqm": 2.62,
+      "aspect_ratio": 2.07
+    },
+    {
+      "id": "floor_38",
+      "center": [
+        54.875,
+        75.65
+      ],
+      "width": 3.95,
+      "depth": 3.9,
+      "label": "Small Room 39",
+      "area_sqm": 3.85,
+      "aspect_ratio": 1.01
+    },
+    {
+      "id": "floor_39",
+      "center": [
+        36.95,
+        78.825
+      ],
+      "width": 5.5,
+      "depth": 6.25,
+      "label": "Small Room 40",
+      "area_sqm": 8.59,
+      "aspect_ratio": 1.14
+    }
+  ],
+  "doors": [
+    {
+      "id": "door_0",
+      "position": [
+        19.15,
+        1,
+        35.05
+      ]
+    },
+    {
+      "id": "door_1",
+      "position": [
+        21.95,
+        1,
+        81.45
+      ]
+    },
+    {
+      "id": "door_2",
+      "position": [
+        14.7,
+        1,
+        53.1
+      ]
+    },
+    {
+      "id": "door_3",
+      "position": [
+        13.7,
+        1,
+        17.15
+      ]
+    },
+    {
+      "id": "door_4",
+      "position": [
+        44.7,
+        1,
+        31.7
+      ]
+    },
+    {
+      "id": "door_5",
+      "position": [
+        22.75,
+        1,
+        66.85
+      ]
+    },
+    {
+      "id": "door_6",
+      "position": [
+        20.7,
+        1,
+        64.65
+      ]
+    },
+    {
+      "id": "door_7",
+      "position": [
+        20.75,
+        1,
+        15.7
+      ]
+    },
+    {
+      "id": "door_8",
+      "position": [
+        41.05,
+        1,
+        28.15
+      ]
+    },
+    {
+      "id": "door_9",
+      "position": [
+        13.3,
+        1,
+        20.75
+      ]
+    },
+    {
+      "id": "door_10",
+      "position": [
+        27.75,
+        1,
+        81.3
+      ]
+    },
+    {
+      "id": "door_11",
+      "position": [
+        34.4,
+        1,
+        5.55
+      ]
+    },
+    {
+      "id": "door_12",
+      "position": [
+        8.55,
+        1,
+        22.55
+      ]
+    },
+    {
+      "id": "door_13",
+      "position": [
+        16.65,
+        1,
+        64.8
+      ]
+    },
+    {
+      "id": "door_14",
+      "position": [
+        23.4,
+        1,
+        15.2
+      ]
+    },
+    {
+      "id": "door_15",
+      "position": [
+        24.45,
+        1,
+        7.95
+      ]
+    },
+    {
+      "id": "door_16",
+      "position": [
+        34.85,
+        1,
+        75.85
+      ]
+    },
+    {
+      "id": "door_17",
+      "position": [
+        26.85,
+        1,
+        6.75
+      ]
+    },
+    {
+      "id": "door_18",
+      "position": [
+        66.1,
+        1,
+        29.05
+      ]
+    },
+    {
+      "id": "door_19",
+      "position": [
+        42.6,
+        1,
+        31.05
+      ]
+    },
+    {
+      "id": "door_20",
+      "position": [
+        50.55,
+        1,
+        31.7
+      ]
+    },
+    {
+      "id": "door_21",
+      "position": [
+        21.95,
+        1,
+        88.65
+      ]
+    },
+    {
+      "id": "door_22",
+      "position": [
+        8.35,
+        1,
+        53.05
+      ]
+    },
+    {
+      "id": "door_23",
+      "position": [
+        38.7,
+        1,
+        31.4
+      ]
+    },
+    {
+      "id": "door_24",
+      "position": [
+        39.7,
+        1,
+        8.05
+      ]
+    },
+    {
+      "id": "door_25",
+      "position": [
+        13.0,
+        1,
+        27.55
+      ]
+    },
+    {
+      "id": "door_26",
+      "position": [
+        26.4,
+        1,
+        20.55
+      ]
+    },
+    {
+      "id": "door_27",
+      "position": [
+        55.35,
+        1,
+        38.7
+      ]
+    },
+    {
+      "id": "door_28",
+      "position": [
+        8.55,
+        1,
+        45.3
+      ]
+    },
+    {
+      "id": "door_29",
+      "position": [
+        44.55,
+        1,
+        29.25
+      ]
+    },
+    {
+      "id": "door_30",
+      "position": [
+        49.95,
+        1,
+        33.8
+      ]
+    },
+    {
+      "id": "door_31",
+      "position": [
+        54.45,
+        1,
+        29.25
+      ]
+    },
+    {
+      "id": "door_32",
+      "position": [
+        47.5,
+        1,
+        39.55
+      ]
+    },
+    {
+      "id": "door_33",
+      "position": [
+        58.35,
+        1,
+        29.25
+      ]
+    },
+    {
+      "id": "door_34",
+      "position": [
+        8.55,
+        1,
+        14.7
+      ]
+    },
+    {
+      "id": "door_35",
+      "position": [
+        62.2,
+        1,
+        29.2
+      ]
+    },
+    {
+      "id": "door_36",
+      "position": [
+        41.7,
+        1,
+        24.05
+      ]
+    },
+    {
+      "id": "door_37",
+      "position": [
+        36.8,
+        1,
+        33.0
+      ]
+    },
+    {
+      "id": "door_38",
+      "position": [
+        61.65,
+        1,
+        74.75
+      ]
+    },
+    {
+      "id": "door_39",
+      "position": [
+        9.65,
+        1,
+        44.6
+      ]
+    },
+    {
+      "id": "door_40",
+      "position": [
+        52.2,
+        1,
+        38.4
+      ]
+    },
+    {
+      "id": "door_41",
+      "position": [
+        50.35,
+        1,
+        39.55
+      ]
+    },
+    {
+      "id": "door_42",
+      "position": [
+        21.3,
+        1,
+        7.5
+      ]
+    },
+    {
+      "id": "door_43",
+      "position": [
+        22.95,
+        1,
+        45.3
+      ]
+    },
+    {
+      "id": "door_44",
+      "position": [
+        24.0,
+        1,
+        89.25
+      ]
+    },
+    {
+      "id": "door_45",
+      "position": [
+        50.4,
+        1,
+        29.25
+      ]
+    },
+    {
+      "id": "door_46",
+      "position": [
+        12.95,
+        1,
+        25.75
+      ]
+    },
+    {
+      "id": "door_47",
+      "position": [
+        56.4,
+        1,
+        31.05
+      ]
+    },
+    {
+      "id": "door_48",
+      "position": [
+        24.7,
+        1,
+        23.05
+      ]
+    },
+    {
+      "id": "door_49",
+      "position": [
+        33.75,
+        1,
+        77.35
+      ]
+    },
+    {
+      "id": "door_50",
+      "position": [
+        20.3,
+        1,
+        30.25
+      ]
+    },
+    {
+      "id": "door_51",
+      "position": [
+        32.15,
+        1,
+        7.05
+      ]
+    },
+    {
+      "id": "door_52",
+      "position": [
+        10.05,
+        1,
+        53.05
+      ]
+    },
+    {
+      "id": "door_53",
+      "position": [
+        17.8,
+        1,
+        53.05
+      ]
+    },
+    {
+      "id": "door_54",
+      "position": [
+        22.2,
+        1,
+        69.8
+      ]
+    },
+    {
+      "id": "door_55",
+      "position": [
+        16.75,
+        1,
+        70.2
+      ]
+    },
+    {
+      "id": "door_56",
+      "position": [
+        44.95,
+        1,
+        38.95
+      ]
+    },
+    {
+      "id": "door_57",
+      "position": [
+        25.9,
+        1,
+        14.15
+      ]
+    },
+    {
+      "id": "door_58",
+      "position": [
+        38.3,
+        1,
+        32.55
+      ]
+    },
+    {
+      "id": "door_59",
+      "position": [
+        63.25,
+        1,
+        70.45
+      ]
+    },
+    {
+      "id": "door_60",
+      "position": [
+        14.8,
+        1,
+        64.65
+      ]
+    },
+    {
+      "id": "door_61",
+      "position": [
+        54.45,
+        1,
+        32.85
+      ]
+    },
+    {
+      "id": "door_62",
+      "position": [
+        8.55,
+        1,
+        30.3
+      ]
+    },
+    {
+      "id": "door_63",
+      "position": [
+        8.55,
+        1,
+        48.75
+      ]
+    },
+    {
+      "id": "door_64",
+      "position": [
+        41.7,
+        1,
+        20.75
+      ]
+    },
+    {
+      "id": "door_65",
+      "position": [
+        60.15,
+        1,
+        30.15
+      ]
+    },
+    {
+      "id": "door_66",
+      "position": [
+        9.3,
+        1,
+        20.55
+      ]
+    },
+    {
+      "id": "door_67",
+      "position": [
+        56.85,
+        1,
+        41.55
+      ]
+    },
+    {
+      "id": "door_68",
+      "position": [
+        64.15,
+        1,
+        33.85
+      ]
+    },
+    {
+      "id": "door_69",
+      "position": [
+        8.3,
+        1,
+        9.2
+      ]
+    },
+    {
+      "id": "door_70",
+      "position": [
+        14.15,
+        1,
+        45.9
+      ]
+    },
+    {
+      "id": "door_71",
+      "position": [
+        13.5,
+        1,
+        34.95
+      ]
+    },
+    {
+      "id": "door_72",
+      "position": [
+        41.3,
+        1,
+        14.75
+      ]
+    },
+    {
+      "id": "door_73",
+      "position": [
+        2.3,
+        1,
+        7.05
+      ]
+    },
+    {
+      "id": "door_74",
+      "position": [
+        19.75,
+        1,
+        6.85
+      ]
+    },
+    {
+      "id": "door_75",
+      "position": [
+        8.35,
+        1,
+        37.9
+      ]
+    },
+    {
+      "id": "door_76",
+      "position": [
+        55.1,
+        1,
+        55.1
+      ]
+    },
+    {
+      "id": "door_77",
+      "position": [
+        68.5,
+        1,
+        76.25
+      ]
+    },
+    {
+      "id": "door_78",
+      "position": [
+        19.05,
+        1,
+        74.75
+      ]
+    },
+    {
+      "id": "door_79",
+      "position": [
+        23.7,
+        1,
+        40.7
+      ]
+    },
+    {
+      "id": "door_80",
+      "position": [
+        66.65,
+        1,
+        34.4
+      ]
+    },
+    {
+      "id": "door_81",
+      "position": [
+        66.65,
+        1,
+        71.4
+      ]
+    },
+    {
+      "id": "door_82",
+      "position": [
+        8.35,
+        1,
+        35.05
+      ]
+    },
+    {
+      "id": "door_83",
+      "position": [
+        44.8,
+        1,
+        33.9
+      ]
+    },
+    {
+      "id": "door_84",
+      "position": [
+        64.3,
+        1,
+        27.25
+      ]
+    },
+    {
+      "id": "door_85",
+      "position": [
+        42.1,
+        1,
+        37.15
+      ]
+    },
+    {
+      "id": "door_86",
+      "position": [
+        18.95,
+        1,
+        81.35
+      ]
+    },
+    {
+      "id": "door_87",
+      "position": [
+        11.2,
+        1,
+        7.7
+      ]
+    },
+    {
+      "id": "door_88",
+      "position": [
+        68.1,
+        1,
+        32.6
+      ]
+    },
+    {
+      "id": "door_89",
+      "position": [
+        69.05,
+        1,
+        35.55
+      ]
+    },
+    {
+      "id": "door_90",
+      "position": [
+        67.05,
+        1,
+        36.7
+      ]
+    },
+    {
+      "id": "door_91",
+      "position": [
+        9.2,
+        1,
+        9.65
+      ]
+    },
+    {
+      "id": "door_92",
+      "position": [
+        20.3,
+        1,
+        53.05
+      ]
+    },
+    {
+      "id": "door_93",
+      "position": [
+        8.55,
+        1,
+        22.35
+      ]
+    },
+    {
+      "id": "door_94",
+      "position": [
+        26.55,
+        1,
+        1.25
+      ]
+    },
+    {
+      "id": "door_95",
+      "position": [
+        20.4,
+        1,
+        42.55
+      ]
+    },
+    {
+      "id": "door_96",
+      "position": [
+        46.8,
+        1,
+        29.2
+      ]
+    },
+    {
+      "id": "door_97",
+      "position": [
+        2.1,
+        1,
+        74.95
+      ]
+    },
+    {
+      "id": "door_98",
+      "position": [
+        8.35,
+        1,
+        75.3
+      ]
+    },
+    {
+      "id": "door_99",
+      "position": [
+        27.65,
+        1,
+        89.65
+      ]
+    },
+    {
+      "id": "door_100",
+      "position": [
+        41.45,
+        1,
+        33.65
+      ]
+    },
+    {
+      "id": "door_101",
+      "position": [
+        59.75,
+        1,
+        16.7
+      ]
+    },
+    {
+      "id": "door_102",
+      "position": [
+        14.25,
+        1,
+        81.3
+      ]
+    },
+    {
+      "id": "door_103",
+      "position": [
+        25.5,
+        1,
+        81.5
+      ]
+    },
+    {
+      "id": "door_104",
+      "position": [
+        20.5,
+        1,
+        10.95
+      ]
+    },
+    {
+      "id": "door_105",
+      "position": [
+        61.6,
+        1,
+        37.15
+      ]
+    },
+    {
+      "id": "door_106",
+      "position": [
+        8.3,
+        1,
+        25.4
+      ]
+    },
+    {
+      "id": "door_107",
+      "position": [
+        21.9,
+        1,
+        85.45
+      ]
+    },
+    {
+      "id": "door_108",
+      "position": [
+        16.25,
+        1,
+        82.5
+      ]
+    },
+    {
+      "id": "door_109",
+      "position": [
+        34.4,
+        1,
+        31.95
+      ]
+    },
+    {
+      "id": "door_110",
+      "position": [
+        39.7,
+        1,
+        73.9
+      ]
+    },
+    {
+      "id": "door_111",
+      "position": [
+        55.45,
+        1,
+        75.3
+      ]
+    },
+    {
+      "id": "door_112",
+      "position": [
+        14.25,
+        1,
+        35.25
+      ]
+    },
+    {
+      "id": "door_113",
+      "position": [
+        2.4,
+        1,
+        42.7
+      ]
+    },
+    {
+      "id": "door_114",
+      "position": [
+        8.35,
+        1,
+        60.1
+      ]
+    },
+    {
+      "id": "door_115",
+      "position": [
+        8.55,
+        1,
+        2.15
+      ]
+    },
+    {
+      "id": "door_116",
+      "position": [
+        24.0,
+        1,
+        52.9
+      ]
+    },
+    {
+      "id": "door_117",
+      "position": [
+        18.35,
+        1,
+        42.55
+      ]
+    },
+    {
+      "id": "door_118",
+      "position": [
+        15.4,
+        1,
+        19.2
+      ]
+    },
+    {
+      "id": "door_119",
+      "position": [
+        85.65,
+        1,
+        59.05
+      ]
+    },
+    {
+      "id": "door_120",
+      "position": [
+        62.2,
+        1,
+        73.15
+      ]
+    },
+    {
+      "id": "door_121",
+      "position": [
+        13.45,
+        1,
+        53.2
+      ]
+    },
+    {
+      "id": "door_122",
+      "position": [
+        83.05,
+        1,
+        59.05
+      ]
+    },
+    {
+      "id": "door_123",
+      "position": [
+        58.35,
+        1,
+        32.7
+      ]
+    },
+    {
+      "id": "door_124",
+      "position": [
+        73.5,
+        1,
+        36.0
+      ]
+    },
+    {
+      "id": "door_125",
+      "position": [
+        16.05,
+        1,
+        57.5
+      ]
+    },
+    {
+      "id": "door_126",
+      "position": [
+        22.15,
+        1,
+        75.3
+      ]
+    },
+    {
+      "id": "door_127",
+      "position": [
+        54.15,
+        1,
+        58.05
+      ]
+    },
+    {
+      "id": "door_128",
+      "position": [
+        15.05,
+        1,
+        7.5
+      ]
+    },
+    {
+      "id": "door_129",
+      "position": [
+        8.35,
+        1,
+        57.85
+      ]
+    },
+    {
+      "id": "door_130",
+      "position": [
+        16.45,
+        1,
+        75.3
+      ]
+    },
+    {
+      "id": "door_131",
+      "position": [
+        20.4,
+        1,
+        60.05
+      ]
+    },
+    {
+      "id": "door_132",
+      "position": [
+        33.75,
+        1,
+        26.05
+      ]
+    },
+    {
+      "id": "door_133",
+      "position": [
+        50.4,
+        1,
+        29.35
+      ]
+    },
+    {
+      "id": "door_134",
+      "position": [
+        13.2,
+        1,
+        9.5
+      ]
+    },
+    {
+      "id": "door_135",
+      "position": [
+        16.8,
+        1,
+        60.05
+      ]
+    },
+    {
+      "id": "door_136",
+      "position": [
+        35.05,
+        1,
+        36.35
+      ]
+    },
+    {
+      "id": "door_137",
+      "position": [
+        24.55,
+        1,
+        2.25
+      ]
+    },
+    {
+      "id": "door_138",
+      "position": [
+        27.55,
+        1,
+        18.3
+      ]
+    },
+    {
+      "id": "door_139",
+      "position": [
+        39.95,
+        1,
+        31.35
+      ]
+    },
+    {
+      "id": "door_140",
+      "position": [
+        25.5,
+        1,
+        29.85
+      ]
+    },
+    {
+      "id": "door_141",
+      "position": [
+        21.1,
+        1,
+        57.75
+      ]
+    },
+    {
+      "id": "door_142",
+      "position": [
+        21.8,
+        1,
+        91.65
+      ]
+    },
+    {
+      "id": "door_143",
+      "position": [
+        41.3,
+        1,
+        6.8
+      ]
+    },
+    {
+      "id": "door_144",
+      "position": [
+        46.55,
+        1,
+        6.8
+      ]
+    },
+    {
+      "id": "door_145",
+      "position": [
+        41.25,
+        1,
+        40.65
+      ]
+    },
+    {
+      "id": "door_146",
+      "position": [
+        8.35,
+        1,
+        26.25
+      ]
+    },
+    {
+      "id": "door_147",
+      "position": [
+        65.8,
+        1,
+        75.0
+      ]
+    },
+    {
+      "id": "door_148",
+      "position": [
+        12.2,
+        1,
+        7.7
+      ]
+    },
+    {
+      "id": "door_149",
+      "position": [
+        40.95,
+        1,
+        16.95
+      ]
+    },
+    {
+      "id": "door_150",
+      "position": [
+        22.05,
+        1,
+        47.95
+      ]
+    },
+    {
+      "id": "door_151",
+      "position": [
+        25.45,
+        1,
+        30.7
+      ]
+    },
+    {
+      "id": "door_152",
+      "position": [
+        52.4,
+        1,
+        72.95
+      ]
+    },
+    {
+      "id": "door_153",
+      "position": [
+        25.1,
+        1,
+        36.05
+      ]
+    },
+    {
+      "id": "door_154",
+      "position": [
+        54.4,
+        1,
+        29.2
+      ]
+    },
+    {
+      "id": "door_155",
+      "position": [
+        40.1,
+        1,
+        5.3
+      ]
+    },
+    {
+      "id": "door_156",
+      "position": [
+        8.55,
+        1,
+        12.15
+      ]
+    },
+    {
+      "id": "door_157",
+      "position": [
+        12.8,
+        1,
+        30.4
+      ]
+    },
+    {
+      "id": "door_158",
+      "position": [
+        54.15,
+        1,
+        77.85
+      ]
+    },
+    {
+      "id": "door_159",
+      "position": [
+        58.95,
+        1,
+        77.6
+      ]
+    },
+    {
+      "id": "door_160",
+      "position": [
+        13.65,
+        1,
+        74.75
+      ]
+    },
+    {
+      "id": "door_161",
+      "position": [
+        25.85,
+        1,
+        48.3
+      ]
+    },
+    {
+      "id": "door_162",
+      "position": [
+        53.85,
+        1,
+        82.5
+      ]
+    },
+    {
+      "id": "door_163",
+      "position": [
+        48.4,
+        1,
+        75.6
+      ]
+    },
+    {
+      "id": "door_164",
+      "position": [
+        20.1,
+        1,
+        2.25
+      ]
+    },
+    {
+      "id": "door_165",
+      "position": [
+        58.6,
+        1,
+        58.0
+      ]
+    },
+    {
+      "id": "door_166",
+      "position": [
+        58.3,
+        1,
+        29.2
+      ]
+    },
+    {
+      "id": "door_167",
+      "position": [
+        12.1,
+        1,
+        13.9
+      ]
+    },
+    {
+      "id": "door_168",
+      "position": [
+        36.35,
+        1,
+        27.75
+      ]
+    },
+    {
+      "id": "door_169",
+      "position": [
+        15.1,
+        1,
+        30.3
+      ]
+    },
+    {
+      "id": "door_170",
+      "position": [
+        54.1,
+        1,
+        2.25
+      ]
+    },
+    {
+      "id": "door_171",
+      "position": [
+        19.4,
+        1,
+        69.75
+      ]
+    },
+    {
+      "id": "door_172",
+      "position": [
+        66.8,
+        1,
+        12.3
+      ]
+    },
+    {
+      "id": "door_173",
+      "position": [
+        8.35,
+        1,
+        33.85
+      ]
+    },
+    {
+      "id": "door_174",
+      "position": [
+        52.9,
+        1,
+        35.7
+      ]
+    },
+    {
+      "id": "door_175",
+      "position": [
+        56.8,
+        1,
+        2.25
+      ]
+    },
+    {
+      "id": "door_176",
+      "position": [
+        18.3,
+        1,
+        17.7
+      ]
+    },
+    {
+      "id": "door_177",
+      "position": [
+        17.6,
+        1,
+        6.95
+      ]
+    },
+    {
+      "id": "door_178",
+      "position": [
+        58.35,
+        1,
+        37.05
+      ]
+    },
+    {
+      "id": "door_179",
+      "position": [
+        27.65,
+        1,
+        69.0
+      ]
+    },
+    {
+      "id": "door_180",
+      "position": [
+        16.95,
+        1,
+        20.55
+      ]
+    },
+    {
+      "id": "door_181",
+      "position": [
+        39.85,
+        1,
+        37.15
+      ]
+    },
+    {
+      "id": "door_182",
+      "position": [
+        48.9,
+        1,
+        36.75
+      ]
+    },
+    {
+      "id": "door_183",
+      "position": [
+        18.1,
+        1,
+        64.45
+      ]
+    },
+    {
+      "id": "door_184",
+      "position": [
+        73.5,
+        1,
+        29.15
+      ]
+    },
+    {
+      "id": "door_185",
+      "position": [
+        2.25,
+        1,
+        5.05
+      ]
+    },
+    {
+      "id": "door_186",
+      "position": [
+        2.25,
+        1,
+        77.5
+      ]
+    },
+    {
+      "id": "door_187",
+      "position": [
+        6.55,
+        1,
+        14.65
+      ]
+    },
+    {
+      "id": "door_188",
+      "position": [
+        8.35,
+        1,
+        66.1
+      ]
+    },
+    {
+      "id": "door_189",
+      "position": [
+        28.05,
+        1,
+        8.95
+      ]
+    },
+    {
+      "id": "door_190",
+      "position": [
+        28.15,
+        1,
+        32.1
+      ]
+    },
+    {
+      "id": "door_191",
+      "position": [
+        39.7,
+        1,
+        78.3
+      ]
+    },
+    {
+      "id": "door_192",
+      "position": [
+        14.4,
+        1,
+        69.0
+      ]
+    },
+    {
+      "id": "door_193",
+      "position": [
+        9.3,
+        1,
+        40.05
+      ]
+    },
+    {
+      "id": "door_194",
+      "position": [
+        23.5,
+        1,
+        6.85
+      ]
+    },
+    {
+      "id": "door_195",
+      "position": [
+        59.55,
+        1,
+        70.2
+      ]
+    },
+    {
+      "id": "door_196",
+      "position": [
+        41.2,
+        1,
+        28.15
+      ]
+    },
+    {
+      "id": "door_197",
+      "position": [
+        2.3,
+        1,
+        45.9
+      ]
+    },
+    {
+      "id": "door_198",
+      "position": [
+        18.85,
+        1,
+        49.15
+      ]
+    },
+    {
+      "id": "door_199",
+      "position": [
+        50.35,
+        1,
+        77.8
+      ]
+    },
+    {
+      "id": "door_200",
+      "position": [
+        12.75,
+        1,
+        57.6
+      ]
+    },
+    {
+      "id": "door_201",
+      "position": [
+        56.8,
+        1,
+        6.85
+      ]
+    },
+    {
+      "id": "door_202",
+      "position": [
+        8.55,
+        1,
+        0.15
+      ]
+    },
+    {
+      "id": "door_203",
+      "position": [
+        17.9,
+        1,
+        2.2
+      ]
+    },
+    {
+      "id": "door_204",
+      "position": [
+        19.15,
+        1,
+        35.05
+      ]
+    },
+    {
+      "id": "door_205",
+      "position": [
+        20.05,
+        1,
+        63.9
+      ]
+    },
+    {
+      "id": "door_206",
+      "position": [
+        13.85,
+        1,
+        56.6
+      ]
+    },
+    {
+      "id": "door_207",
+      "position": [
+        41.3,
+        1,
+        12.35
+      ]
+    },
+    {
+      "id": "door_208",
+      "position": [
+        18.35,
+        1,
+        10.8
+      ]
+    },
+    {
+      "id": "door_209",
+      "position": [
+        17.85,
+        1,
+        32.15
+      ]
+    },
+    {
+      "id": "door_210",
+      "position": [
+        23.85,
+        1,
+        87.75
+      ]
+    },
+    {
+      "id": "door_211",
+      "position": [
+        66.9,
+        1,
+        35.7
+      ]
+    },
+    {
+      "id": "door_212",
+      "position": [
+        16.25,
+        1,
+        89.25
+      ]
+    },
+    {
+      "id": "door_213",
+      "position": [
+        25.5,
+        1,
+        42.0
+      ]
+    },
+    {
+      "id": "door_214",
+      "position": [
+        66.8,
+        1,
+        39.0
+      ]
+    },
+    {
+      "id": "door_215",
+      "position": [
+        51.85,
+        1,
+        6.85
+      ]
+    },
+    {
+      "id": "door_216",
+      "position": [
+        21.95,
+        1,
+        0.7
+      ]
+    },
+    {
+      "id": "door_217",
+      "position": [
+        16.65,
+        1,
+        25.1
+      ]
+    },
+    {
+      "id": "door_218",
+      "position": [
+        21.1,
+        1,
+        20.95
+      ]
+    },
+    {
+      "id": "door_219",
+      "position": [
+        2.25,
+        1,
+        10.3
+      ]
+    },
+    {
+      "id": "door_220",
+      "position": [
+        2.25,
+        1,
+        27.55
+      ]
+    },
+    {
+      "id": "door_221",
+      "position": [
+        2.25,
+        1,
+        36.7
+      ]
+    },
+    {
+      "id": "door_222",
+      "position": [
+        2.25,
+        1,
+        39.55
+      ]
+    },
+    {
+      "id": "door_223",
+      "position": [
+        2.25,
+        1,
+        48.7
+      ]
+    },
+    {
+      "id": "door_224",
+      "position": [
+        2.25,
+        1,
+        56.95
+      ]
+    },
+    {
+      "id": "door_225",
+      "position": [
+        59.35,
+        1,
+        2.25
+      ]
+    },
+    {
+      "id": "door_226",
+      "position": [
+        54.9,
+        1,
+        59.85
+      ]
+    },
+    {
+      "id": "door_227",
+      "position": [
+        62.7,
+        1,
+        81.45
+      ]
+    },
+    {
+      "id": "door_228",
+      "position": [
+        25.45,
+        1,
+        36.25
+      ]
+    },
+    {
+      "id": "door_229",
+      "position": [
+        19.3,
+        1,
+        13.3
+      ]
+    },
+    {
+      "id": "door_230",
+      "position": [
+        55.6,
+        1,
+        81.4
+      ]
+    },
+    {
+      "id": "door_231",
+      "position": [
+        2.3,
+        1,
+        54.3
+      ]
+    },
+    {
+      "id": "door_232",
+      "position": [
+        23.45,
+        1,
+        49.5
+      ]
+    },
+    {
+      "id": "door_233",
+      "position": [
+        66.8,
+        1,
+        17.55
+      ]
+    },
+    {
+      "id": "door_234",
+      "position": [
+        82.45,
+        1,
+        60.55
+      ]
+    },
+    {
+      "id": "door_235",
+      "position": [
+        11.05,
+        1,
+        30.3
+      ]
+    },
+    {
+      "id": "door_236",
+      "position": [
+        12.95,
+        1,
+        23.45
+      ]
+    },
+    {
+      "id": "door_237",
+      "position": [
+        44.6,
+        1,
+        28.1
+      ]
+    },
+    {
+      "id": "door_238",
+      "position": [
+        84.15,
+        1,
+        57.4
+      ]
+    },
+    {
+      "id": "door_239",
+      "position": [
+        23.6,
+        1,
+        38.3
+      ]
+    },
+    {
+      "id": "door_240",
+      "position": [
+        70.95,
+        1,
+        30.3
+      ]
+    },
+    {
+      "id": "door_241",
+      "position": [
+        26.0,
+        1,
+        85.55
+      ]
+    },
+    {
+      "id": "door_242",
+      "position": [
+        63.0,
+        1,
+        70.45
+      ]
+    },
+    {
+      "id": "door_243",
+      "position": [
+        56.4,
+        1,
+        38.4
+      ]
+    },
+    {
+      "id": "door_244",
+      "position": [
+        57.65,
+        1,
+        54.35
+      ]
+    },
+    {
+      "id": "door_245",
+      "position": [
+        71.1,
+        1,
+        29.15
+      ]
+    },
+    {
+      "id": "door_246",
+      "position": [
+        38.05,
+        1,
+        81.4
+      ]
+    },
+    {
+      "id": "door_247",
+      "position": [
+        60.9,
+        1,
+        14.65
+      ]
+    },
+    {
+      "id": "door_248",
+      "position": [
+        21.8,
+        1,
+        87.75
+      ]
+    },
+    {
+      "id": "door_249",
+      "position": [
+        18.3,
+        1,
+        57.75
+      ]
+    },
+    {
+      "id": "door_250",
+      "position": [
+        56.95,
+        1,
+        81.4
+      ]
+    },
+    {
+      "id": "door_251",
+      "position": [
+        53.2,
+        1,
+        70.9
+      ]
+    },
+    {
+      "id": "door_252",
+      "position": [
+        41.25,
+        1,
+        19.95
+      ]
+    },
+    {
+      "id": "door_253",
+      "position": [
+        39.7,
+        1,
+        8.05
+      ]
+    },
+    {
+      "id": "door_254",
+      "position": [
+        81.0,
+        1,
+        59.05
+      ]
+    },
+    {
+      "id": "door_255",
+      "position": [
+        73.55,
+        1,
+        17.6
+      ]
+    },
+    {
+      "id": "door_256",
+      "position": [
+        73.55,
+        1,
+        40.55
+      ]
+    },
+    {
+      "id": "door_257",
+      "position": [
+        10.95,
+        1,
+        75.95
+      ]
+    },
+    {
+      "id": "door_258",
+      "position": [
+        48.3,
+        1,
+        81.4
+      ]
+    },
+    {
+      "id": "door_259",
+      "position": [
+        8.3,
+        1,
+        6.8
+      ]
+    },
+    {
+      "id": "door_260",
+      "position": [
+        20.4,
+        1,
+        73.9
+      ]
+    },
+    {
+      "id": "door_261",
+      "position": [
+        70.95,
+        1,
+        71.05
+      ]
+    },
+    {
+      "id": "door_262",
+      "position": [
+        31.15,
+        1,
+        12.4
+      ]
+    },
+    {
+      "id": "door_263",
+      "position": [
+        60.1,
+        1,
+        81.4
+      ]
+    },
+    {
+      "id": "door_264",
+      "position": [
+        67.2,
+        1,
+        6.9
+      ]
+    },
+    {
+      "id": "door_265",
+      "position": [
+        73.55,
+        1,
+        13.85
+      ]
+    },
+    {
+      "id": "door_266",
+      "position": [
+        14.15,
+        1,
+        2.2
+      ]
+    },
+    {
+      "id": "door_267",
+      "position": [
+        21.95,
+        1,
+        81.35
+      ]
+    },
+    {
+      "id": "door_268",
+      "position": [
+        43.8,
+        1,
+        22.4
+      ]
+    },
+    {
+      "id": "door_269",
+      "position": [
+        84.95,
+        1,
+        55.5
+      ]
+    },
+    {
+      "id": "door_270",
+      "position": [
+        29.65,
+        1,
+        36.8
+      ]
+    },
+    {
+      "id": "door_271",
+      "position": [
+        14.3,
+        1,
+        49.9
+      ]
+    },
+    {
+      "id": "door_272",
+      "position": [
+        21.1,
+        1,
+        10.75
+      ]
+    },
+    {
+      "id": "door_273",
+      "position": [
+        11.1,
+        1,
+        81.3
+      ]
+    },
+    {
+      "id": "door_274",
+      "position": [
+        28.0,
+        1,
+        76.8
+      ]
+    },
+    {
+      "id": "door_275",
+      "position": [
+        8.35,
+        1,
+        57.85
+      ]
+    },
+    {
+      "id": "door_276",
+      "position": [
+        16.6,
+        1,
+        25.45
+      ]
+    },
+    {
+      "id": "door_277",
+      "position": [
+        34.4,
+        1,
+        9.9
+      ]
+    },
+    {
+      "id": "door_278",
+      "position": [
+        73.55,
+        1,
+        58.4
+      ]
+    },
+    {
+      "id": "door_279",
+      "position": [
+        73.55,
+        1,
+        62.15
+      ]
+    },
+    {
+      "id": "door_280",
+      "position": [
+        18.0,
+        1,
+        49.25
+      ]
+    },
+    {
+      "id": "door_281",
+      "position": [
+        25.75,
+        1,
+        93.25
+      ]
+    },
+    {
+      "id": "door_282",
+      "position": [
+        25.9,
+        1,
+        80.95
+      ]
+    },
+    {
+      "id": "door_283",
+      "position": [
+        20.6,
+        1,
+        47.35
+      ]
+    },
+    {
+      "id": "door_284",
+      "position": [
+        18.3,
+        1,
+        17.25
+      ]
+    },
+    {
+      "id": "door_285",
+      "position": [
+        16.25,
+        1,
+        84.6
+      ]
+    },
+    {
+      "id": "door_286",
+      "position": [
+        59.7,
+        1,
+        18.75
+      ]
+    },
+    {
+      "id": "door_287",
+      "position": [
+        56.1,
+        1,
+        16.4
+      ]
+    },
+    {
+      "id": "door_288",
+      "position": [
+        2.3,
+        1,
+        16.5
+      ]
+    },
+    {
+      "id": "door_289",
+      "position": [
+        47.75,
+        1,
+        22.9
+      ]
+    },
+    {
+      "id": "door_290",
+      "position": [
+        67.6,
+        1,
+        62.3
+      ]
+    },
+    {
+      "id": "door_291",
+      "position": [
+        68.15,
+        1,
+        34.05
+      ]
+    },
+    {
+      "id": "door_292",
+      "position": [
+        67.6,
+        1,
+        57.65
+      ]
+    },
+    {
+      "id": "door_293",
+      "position": [
+        23.9,
+        1,
+        10.45
+      ]
+    },
+    {
+      "id": "door_294",
+      "position": [
+        14.15,
+        1,
+        6.8
+      ]
+    },
+    {
+      "id": "door_295",
+      "position": [
+        70.65,
+        1,
+        42.1
+      ]
+    },
+    {
+      "id": "door_296",
+      "position": [
+        43.8,
+        1,
+        19.95
+      ]
+    },
+    {
+      "id": "door_297",
+      "position": [
+        34.3,
+        1,
+        38.7
+      ]
+    },
+    {
+      "id": "door_298",
+      "position": [
+        63.05,
+        1,
+        65.5
+      ]
+    },
+    {
+      "id": "door_299",
+      "position": [
+        19.85,
+        1,
+        89.25
+      ]
+    },
+    {
+      "id": "door_300",
+      "position": [
+        73.5,
+        1,
+        68.85
+      ]
+    },
+    {
+      "id": "door_301",
+      "position": [
+        73.5,
+        1,
+        71.7
+      ]
+    },
+    {
+      "id": "door_302",
+      "position": [
+        2.3,
+        1,
+        34.05
+      ]
+    },
+    {
+      "id": "door_303",
+      "position": [
+        27.7,
+        1,
+        88.45
+      ]
+    },
+    {
+      "id": "door_304",
+      "position": [
+        24.15,
+        1,
+        73.85
+      ]
+    },
+    {
+      "id": "door_305",
+      "position": [
+        31.15,
+        1,
+        15.85
+      ]
+    },
+    {
+      "id": "door_306",
+      "position": [
+        25.2,
+        1,
+        77.75
+      ]
+    },
+    {
+      "id": "door_307",
+      "position": [
+        19.2,
+        1,
+        38.1
+      ]
+    },
+    {
+      "id": "door_308",
+      "position": [
+        65.9,
+        1,
+        37.65
+      ]
+    },
+    {
+      "id": "door_309",
+      "position": [
+        62.2,
+        1,
+        28.6
+      ]
+    },
+    {
+      "id": "door_310",
+      "position": [
+        25.9,
+        1,
+        21.4
+      ]
+    },
+    {
+      "id": "door_311",
+      "position": [
+        45.95,
+        1,
+        6.8
+      ]
+    },
+    {
+      "id": "door_312",
+      "position": [
+        16.0,
+        1,
+        14.15
+      ]
+    },
+    {
+      "id": "door_313",
+      "position": [
+        8.35,
+        1,
+        43.9
+      ]
+    },
+    {
+      "id": "door_314",
+      "position": [
+        27.25,
+        1,
+        6.75
+      ]
+    },
+    {
+      "id": "door_315",
+      "position": [
+        49.8,
+        1,
+        54.6
+      ]
+    },
+    {
+      "id": "door_316",
+      "position": [
+        12.05,
+        1,
+        71.15
+      ]
+    },
+    {
+      "id": "door_317",
+      "position": [
+        73.55,
+        1,
+        13.4
+      ]
+    },
+    {
+      "id": "door_318",
+      "position": [
+        21.85,
+        1,
+        92.2
+      ]
+    },
+    {
+      "id": "door_319",
+      "position": [
+        22.15,
+        1,
+        51.55
+      ]
+    },
+    {
+      "id": "door_320",
+      "position": [
+        69.85,
+        1,
+        24.35
+      ]
+    },
+    {
+      "id": "door_321",
+      "position": [
+        70.7,
+        1,
+        2.2
+      ]
+    },
+    {
+      "id": "door_322",
+      "position": [
+        35.45,
+        1,
+        82.4
+      ]
+    },
+    {
+      "id": "door_323",
+      "position": [
+        52.35,
+        1,
+        42.95
+      ]
+    },
+    {
+      "id": "door_324",
+      "position": [
+        12.65,
+        1,
+        20.9
+      ]
+    },
+    {
+      "id": "door_325",
+      "position": [
+        55.4,
+        1,
+        70.7
+      ]
+    },
+    {
+      "id": "door_326",
+      "position": [
+        5.55,
+        1,
+        46.15
+      ]
+    },
+    {
+      "id": "door_327",
+      "position": [
+        27.7,
+        1,
+        86.4
+      ]
+    },
+    {
+      "id": "door_328",
+      "position": [
+        73.55,
+        1,
+        43.4
+      ]
+    },
+    {
+      "id": "door_329",
+      "position": [
+        8.55,
+        1,
+        2.3
+      ]
+    },
+    {
+      "id": "door_330",
+      "position": [
+        8.3,
+        1,
+        19.1
+      ]
+    },
+    {
+      "id": "door_331",
+      "position": [
+        62.0,
+        1,
+        18.4
+      ]
+    },
+    {
+      "id": "door_332",
+      "position": [
+        39.6,
+        1,
+        0.95
+      ]
+    },
+    {
+      "id": "door_333",
+      "position": [
+        22.9,
+        1,
+        42.55
+      ]
+    },
+    {
+      "id": "door_334",
+      "position": [
+        28.85,
+        1,
+        47.8
+      ]
+    },
+    {
+      "id": "door_335",
+      "position": [
+        33.6,
+        1,
+        84.55
+      ]
+    },
+    {
+      "id": "door_336",
+      "position": [
+        90.3,
+        1,
+        36.7
+      ]
+    },
+    {
+      "id": "door_337",
+      "position": [
+        29.65,
+        1,
+        7.0
+      ]
+    },
+    {
+      "id": "door_338",
+      "position": [
+        86.25,
+        1,
+        62.4
+      ]
+    },
+    {
+      "id": "door_339",
+      "position": [
+        51.55,
+        1,
+        39.55
+      ]
+    },
+    {
+      "id": "door_340",
+      "position": [
+        55.65,
+        1,
+        9.6
+      ]
+    },
+    {
+      "id": "door_341",
+      "position": [
+        29.7,
+        1,
+        29.55
+      ]
+    },
+    {
+      "id": "door_342",
+      "position": [
+        31.2,
+        1,
+        15.6
+      ]
+    },
+    {
+      "id": "door_343",
+      "position": [
+        57.15,
+        1,
+        18.3
+      ]
+    },
+    {
+      "id": "door_344",
+      "position": [
+        51.75,
+        1,
+        82.5
+      ]
+    },
+    {
+      "id": "door_345",
+      "position": [
+        29.85,
+        1,
+        67.95
+      ]
+    },
+    {
+      "id": "door_346",
+      "position": [
+        49.8,
+        1,
+        67.5
+      ]
+    },
+    {
+      "id": "door_347",
+      "position": [
+        66.2,
+        1,
+        81.65
+      ]
+    },
+    {
+      "id": "door_348",
+      "position": [
+        39.8,
+        1,
+        -0.25
+      ]
+    },
+    {
+      "id": "door_349",
+      "position": [
+        63.25,
+        1,
+        15.95
+      ]
+    },
+    {
+      "id": "door_350",
+      "position": [
+        60.95,
+        1,
+        59.75
+      ]
+    },
+    {
+      "id": "door_351",
+      "position": [
+        9.3,
+        1,
+        80.15
+      ]
+    },
+    {
+      "id": "door_352",
+      "position": [
+        18.35,
+        1,
+        57.5
+      ]
+    },
+    {
+      "id": "door_353",
+      "position": [
+        -0.1,
+        1,
+        43.3
+      ]
+    },
+    {
+      "id": "door_354",
+      "position": [
+        60.0,
+        1,
+        67.7
+      ]
+    },
+    {
+      "id": "door_355",
+      "position": [
+        59.5,
+        1,
+        61.35
+      ]
+    },
+    {
+      "id": "door_356",
+      "position": [
+        32.2,
+        1,
+        10.3
+      ]
+    },
+    {
+      "id": "door_357",
+      "position": [
+        45.4,
+        1,
+        18.75
+      ]
+    },
+    {
+      "id": "door_358",
+      "position": [
+        55.9,
+        1,
+        6.85
+      ]
+    },
+    {
+      "id": "door_359",
+      "position": [
+        16.3,
+        1,
+        71.65
+      ]
+    },
+    {
+      "id": "door_360",
+      "position": [
+        51.15,
+        1,
+        58.35
+      ]
+    },
+    {
+      "id": "door_361",
+      "position": [
+        32.35,
+        1,
+        8.05
+      ]
+    },
+    {
+      "id": "door_362",
+      "position": [
+        27.8,
+        1,
+        13.8
+      ]
+    },
+    {
+      "id": "door_363",
+      "position": [
+        23.6,
+        1,
+        35.9
+      ]
+    },
+    {
+      "id": "door_364",
+      "position": [
+        68.5,
+        1,
+        71.6
+      ]
+    },
+    {
+      "id": "door_365",
+      "position": [
+        35.85,
+        1,
+        32.2
+      ]
+    },
+    {
+      "id": "door_366",
+      "position": [
+        8.35,
+        1,
+        49.45
+      ]
+    },
+    {
+      "id": "door_367",
+      "position": [
+        42.35,
+        1,
+        -0.15
+      ]
+    },
+    {
+      "id": "door_368",
+      "position": [
+        25.1,
+        1,
+        39.1
+      ]
+    },
+    {
+      "id": "door_369",
+      "position": [
+        14.85,
+        1,
+        80.75
+      ]
+    },
+    {
+      "id": "door_370",
+      "position": [
+        34.75,
+        1,
+        73.25
+      ]
+    },
+    {
+      "id": "door_371",
+      "position": [
+        32.7,
+        1,
+        35.55
+      ]
+    },
+    {
+      "id": "door_372",
+      "position": [
+        58.0,
+        1,
+        14.1
+      ]
+    },
+    {
+      "id": "door_373",
+      "position": [
+        54.1,
+        1,
+        6.85
+      ]
+    },
+    {
+      "id": "door_374",
+      "position": [
+        29.15,
+        1,
+        28.7
+      ]
+    },
+    {
+      "id": "door_375",
+      "position": [
+        24.85,
+        1,
+        80.9
+      ]
+    },
+    {
+      "id": "door_376",
+      "position": [
+        64.9,
+        1,
+        80.9
+      ]
+    },
+    {
+      "id": "door_377",
+      "position": [
+        81.1,
+        1,
+        54.9
+      ]
+    },
+    {
+      "id": "door_378",
+      "position": [
+        74.3,
+        1,
+        72.5
+      ]
+    },
+    {
+      "id": "door_379",
+      "position": [
+        27.2,
+        1,
+        71.95
+      ]
+    },
+    {
+      "id": "door_380",
+      "position": [
+        72.95,
+        1,
+        18.95
+      ]
+    },
+    {
+      "id": "door_381",
+      "position": [
+        73.0,
+        1,
+        21.1
+      ]
+    },
+    {
+      "id": "door_382",
+      "position": [
+        15.7,
+        1,
+        63.45
+      ]
+    },
+    {
+      "id": "door_383",
+      "position": [
+        31.9,
+        1,
+        80.8
+      ]
+    },
+    {
+      "id": "door_384",
+      "position": [
+        30.45,
+        1,
+        27.2
+      ]
+    },
+    {
+      "id": "door_385",
+      "position": [
+        52.45,
+        1,
+        73.25
+      ]
+    },
+    {
+      "id": "door_386",
+      "position": [
+        59.5,
+        1,
+        6.85
+      ]
+    },
+    {
+      "id": "door_387",
+      "position": [
+        46.3,
+        1,
+        44.35
+      ]
+    },
+    {
+      "id": "door_388",
+      "position": [
+        66.9,
+        1,
+        80.75
+      ]
+    },
+    {
+      "id": "door_389",
+      "position": [
+        58.7,
+        1,
+        70.1
+      ]
+    },
+    {
+      "id": "door_390",
+      "position": [
+        37.15,
+        1,
+        -1.8
+      ]
+    },
+    {
+      "id": "door_391",
+      "position": [
+        29.75,
+        1,
+        81.05
+      ]
+    },
+    {
+      "id": "door_392",
+      "position": [
+        73.85,
+        1,
+        14.35
+      ]
+    },
+    {
+      "id": "door_393",
+      "position": [
+        41.5,
+        1,
+        22.9
+      ]
+    },
+    {
+      "id": "door_394",
+      "position": [
+        3.0,
+        1,
+        82.55
+      ]
+    },
+    {
+      "id": "door_395",
+      "position": [
+        56.5,
+        1,
+        30.85
+      ]
+    }
+  ],
+  "windows": [
+    {
+      "id": "window_0",
+      "position": [
+        6.85,
+        1.5,
+        81.85
+      ]
+    },
+    {
+      "id": "window_1",
+      "position": [
+        26.85,
+        1.5,
+        81.85
+      ]
+    },
+    {
+      "id": "window_2",
+      "position": [
+        39.3,
+        1.5,
+        37.8
+      ]
+    },
+    {
+      "id": "window_3",
+      "position": [
+        39.75,
+        1.5,
+        35.35
+      ]
+    },
+    {
+      "id": "window_4",
+      "position": [
+        20.65,
+        1.5,
+        20.95
+      ]
+    },
+    {
+      "id": "window_5",
+      "position": [
+        14.85,
+        1.5,
+        71.75
+      ]
+    },
+    {
+      "id": "window_6",
+      "position": [
+        26.05,
+        1.5,
+        81.45
+      ]
+    },
+    {
+      "id": "window_7",
+      "position": [
+        22.15,
+        1.5,
+        81.45
+      ]
+    },
+    {
+      "id": "window_8",
+      "position": [
+        20.85,
+        1.5,
+        49.7
+      ]
+    },
+    {
+      "id": "window_9",
+      "position": [
+        19.75,
+        1.5,
+        30.9
+      ]
+    },
+    {
+      "id": "window_10",
+      "position": [
+        19.75,
+        1.5,
+        33.45
+      ]
+    },
+    {
+      "id": "window_11",
+      "position": [
+        60.95,
+        1.5,
+        71.15
+      ]
+    },
+    {
+      "id": "window_12",
+      "position": [
+        40.15,
+        1.5,
+        82.95
+      ]
+    },
+    {
+      "id": "window_13",
+      "position": [
+        7.8,
+        1.5,
+        1.45
+      ]
+    },
+    {
+      "id": "window_14",
+      "position": [
+        39.7,
+        1.5,
+        0.6
+      ]
+    },
+    {
+      "id": "window_15",
+      "position": [
+        0.65,
+        1.5,
+        42.9
+      ]
+    }
+  ],
+  "warning_overlays": [
+    {
+      "id": "warning_0",
+      "type": "warning_overlay",
+      "severity": "critical",
+      "color": "#ef4444",
+      "position": [
+        48.0,
+        0.05,
+        48.525
+      ],
+      "radius": 21.351,
+      "message": "CRITICAL: Room 1 span ~48.5m exceeds safe limit. Steel frame or transfer beam required."
+    },
+    {
+      "id": "warning_1",
+      "type": "warning_overlay",
+      "severity": "critical",
+      "color": "#ef4444",
+      "position": [
+        41.55,
+        0.05,
+        4.775
+      ],
+      "radius": 14.322,
+      "message": "CRITICAL: Room 2 span ~32.6m exceeds safe limit. Steel frame or transfer beam required."
+    },
+    {
+      "id": "warning_2",
+      "type": "warning_overlay",
+      "severity": "critical",
+      "color": "#ef4444",
+      "position": [
+        5.375,
+        0.05,
+        44.75
+      ],
+      "radius": 16.39,
+      "message": "CRITICAL: Room 3 span ~37.2m exceeds safe limit. Steel frame or transfer beam required."
+    },
+    {
+      "id": "warning_3",
+      "type": "warning_overlay",
+      "severity": "critical",
+      "color": "#ef4444",
+      "position": [
+        20.65,
+        0.05,
+        14.7
+      ],
+      "radius": 4.752,
+      "message": "CRITICAL: Room 5 span ~10.8m exceeds safe limit. Steel frame or transfer beam required."
+    },
+    {
+      "id": "warning_4",
+      "type": "warning_overlay",
+      "severity": "critical",
+      "color": "#ef4444",
+      "position": [
+        57.975,
+        0.05,
+        18.6
+      ],
+      "radius": 6.743,
+      "message": "CRITICAL: Room 6 span ~15.3m exceeds safe limit. Steel frame or transfer beam required."
+    },
+    {
+      "id": "warning_5",
+      "type": "warning_overlay",
+      "severity": "critical",
+      "color": "#ef4444",
+      "position": [
+        25.65,
+        0.05,
+        44.75
+      ],
+      "radius": 15.994,
+      "message": "CRITICAL: Room 7 span ~36.4m exceeds safe limit. Steel frame or transfer beam required."
+    },
+    {
+      "id": "warning_6",
+      "type": "warning_overlay",
+      "severity": "critical",
+      "color": "#ef4444",
+      "position": [
+        62.875,
+        0.05,
+        66.475
+      ],
+      "radius": 14.399,
+      "message": "CRITICAL: Room 30 span ~32.7m exceeds safe limit. Steel frame or transfer beam required."
+    },
+    {
+      "id": "warning_7",
+      "type": "warning_overlay",
+      "severity": "critical",
+      "color": "#ef4444",
+      "position": [
+        62.5,
+        0.05,
+        66.475
+      ],
+      "radius": 14.234,
+      "message": "CRITICAL: Room 32 span ~32.4m exceeds safe limit. Steel frame or transfer beam required."
+    },
+    {
+      "id": "warning_8",
+      "type": "warning_overlay",
+      "severity": "critical",
+      "color": "#ef4444",
+      "position": [
+        57.675,
+        0.05,
+        60.2
+      ],
+      "radius": 9.24,
+      "message": "CRITICAL: Room 33 span ~21.0m exceeds safe limit. Steel frame or transfer beam required."
+    },
+    {
+      "id": "warning_9",
+      "type": "warning_overlay",
+      "severity": "critical",
+      "color": "#ef4444",
+      "position": [
+        20.45,
+        0.05,
+        56.675
+      ],
+      "radius": 4.664,
+      "message": "CRITICAL: Room 37 span ~10.6m exceeds safe limit. Steel frame or transfer beam required."
+    },
+    {
+      "id": "warning_43",
+      "type": "warning_overlay",
+      "severity": "high",
+      "color": "#fb923c",
+      "position": [
+        22.575,
+        0.05,
+        26.475
+      ],
+      "radius": 3.905,
+      "message": "Large span ~8.9m in Room 13. Intermediate beam support recommended."
+    },
+    {
+      "id": "warning_60",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        41.55,
+        0.05,
+        4.775
+      ],
+      "radius": 14.322,
+      "message": "Irregular room aspect ratio (16.1:1) for Room 2. May cause uneven load distribution."
+    },
+    {
+      "id": "warning_61",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        5.375,
+        0.05,
+        44.75
+      ],
+      "radius": 16.39,
+      "message": "Irregular room aspect ratio (0.1:1) for Room 3. May cause uneven load distribution."
+    },
+    {
+      "id": "warning_62",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        44.475,
+        0.05,
+        14.025
+      ],
+      "radius": 2.475,
+      "message": "Moderate span ~5.6m in Room 8. Standard RCC slab adequate with proper design."
+    },
+    {
+      "id": "warning_63",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        44.475,
+        0.05,
+        14.025
+      ],
+      "radius": 2.475,
+      "message": "Irregular room aspect ratio (0.3:1) for Room 8. May cause uneven load distribution."
+    },
+    {
+      "id": "warning_64",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        26.0,
+        0.05,
+        18.475
+      ],
+      "radius": 2.178,
+      "message": "Moderate span ~5.0m in Room 10. Standard RCC slab adequate with proper design."
+    },
+    {
+      "id": "warning_65",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        47.625,
+        0.05,
+        33.75
+      ],
+      "radius": 1.364,
+      "message": "Irregular room aspect ratio (0.2:1) for Room 16. May cause uneven load distribution."
+    },
+    {
+      "id": "warning_66",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        53.5,
+        0.05,
+        33.75
+      ],
+      "radius": 1.364,
+      "message": "Irregular room aspect ratio (0.2:1) for Room 17. May cause uneven load distribution."
+    },
+    {
+      "id": "warning_67",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        55.45,
+        0.05,
+        33.75
+      ],
+      "radius": 1.364,
+      "message": "Irregular room aspect ratio (0.2:1) for Room 18. May cause uneven load distribution."
+    },
+    {
+      "id": "warning_68",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        57.4,
+        0.05,
+        33.75
+      ],
+      "radius": 1.364,
+      "message": "Irregular room aspect ratio (0.2:1) for Room 19. May cause uneven load distribution."
+    },
+    {
+      "id": "warning_69",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        59.35,
+        0.05,
+        33.75
+      ],
+      "radius": 1.364,
+      "message": "Irregular room aspect ratio (0.2:1) for Room 20. May cause uneven load distribution."
+    },
+    {
+      "id": "warning_70",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        61.325,
+        0.05,
+        33.75
+      ],
+      "radius": 1.364,
+      "message": "Irregular room aspect ratio (0.2:1) for Room 21. May cause uneven load distribution."
+    },
+    {
+      "id": "warning_71",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        63.275,
+        0.05,
+        33.75
+      ],
+      "radius": 1.364,
+      "message": "Irregular room aspect ratio (0.2:1) for Room 22. May cause uneven load distribution."
+    },
+    {
+      "id": "warning_72",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        19.425,
+        0.05,
+        32.75
+      ],
+      "radius": 2.519,
+      "message": "Moderate span ~5.7m in Room 26. Standard RCC slab adequate with proper design."
+    },
+    {
+      "id": "warning_73",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        28.2,
+        0.05,
+        35.85
+      ],
+      "radius": 2.024,
+      "message": "Moderate span ~4.6m in Room 27. Standard RCC slab adequate with proper design."
+    },
+    {
+      "id": "warning_74",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        28.2,
+        0.05,
+        35.85
+      ],
+      "radius": 2.024,
+      "message": "Irregular room aspect ratio (0.3:1) for Room 27. May cause uneven load distribution."
+    },
+    {
+      "id": "warning_75",
+      "type": "warning_overlay",
+      "severity": "medium",
+      "color": "#f59e0b",
+      "position": [
+        20.45,
+        0.05,
+        56.675
+      ],
+      "radius": 4.664,
+      "message": "Irregular room aspect ratio (3.3:1) for Room 37. May cause uneven load distribution."
+    }
+  ]
+}
